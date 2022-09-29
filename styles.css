@@ -1,0 +1,14 @@
+img {
+  width: 500px;
+  margin-left: 375px;
+}
+h1 {
+  margin-left: 900px;
+  font-family: "Permanent Marker", cursive;
+}
+p {
+  padding-left: 7%;
+  padding-right: 7%;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
