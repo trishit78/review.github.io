@@ -1,9 +1,12 @@
 img {
   width: 500px;
-  margin-left: 375px;
+  
+  padding-top: 5%;
+  padding-left: 30%;
+  padding-right: 30%;
 }
 h1 {
-  margin-left: 900px;
+  margin-left: 60%;
   font-family: "Permanent Marker", cursive;
 }
 p {
